@@ -1,3 +1,5 @@
+[Back to Home](README.md)
+
 # *Blade Runner 2049* (2017) — Overview
 
 *Blade Runner 2049*, directed by **Denis Villeneuve**, is a visually striking and emotionally reflective sequel to the 1982 sci-fi classic.  
@@ -11,8 +13,8 @@ This page explores the film’s story, themes, characters, and legacy, while usi
 - [Key Themes](#key-themes)
 - [Iconic Scene](#iconic-scene)
 - [Movie Stats Table](#movie-stats-table)
-- [Behind the Scenes](#behind-the-scenes)
-- [Navigation](#navigation)
+
+
 
 ---
 
@@ -74,15 +76,4 @@ Image placeholder (replace if you want):
 
 ---
 
-## Quote Block With Code Example
 
-> “I've seen things you people wouldn't believe…” — callback to the original film
-
-```javascript
-const replicant = {
-    model: "KD6-3.7",
-    purpose: "Blade Runner",
-    status: "Active"
-};
-
-console.log(replicant.model);
