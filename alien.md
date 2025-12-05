@@ -63,7 +63,7 @@ The characters are alone in deep space with no hope of rescue.
 The “chestburster” scene is one of the most famous in film history.  
 Here’s a placeholder image (replace this with a real image if you want):
 
-![Chestburster Scene Placeholder](https://www.youtube.com/watch?v=UxqVFmig5AA)
+![Chestburster Scene](https://www.youtube.com/watch?v=UxqVFmig5AA)
 
 ---
 
