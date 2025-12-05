@@ -3,5 +3,5 @@
 
 I chose to pull some information about a few of my favorite movies for this project! below are links to the other pages for you to check out:
 
-[Alien (1979) Overview](alien.md)
+[Alien (1979) Overview](alien.md)<br>
 [Bladerunner 2049 (2017)](bladerunner.md)
