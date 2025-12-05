@@ -60,7 +60,7 @@ No matter how advanced technology becomes, nature remains powerful and uncontrol
 One of the most memorable scenes is the T-Rex breakout during a storm.  
 
 
-![Jurassic Park Placeholder](https://static.wixstatic.com/media/b0d29e_755d887ade5c425aa97b7ab4202de6a1~mv2.jpg/v1/fill/w_980,h_490,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b0d29e_755d887ade5c425aa97b7ab4202de6a1~mv2.jpg)
+![Jurassic Park rex scene](https://static.wixstatic.com/media/b0d29e_755d887ade5c425aa97b7ab4202de6a1~mv2.jpg/v1/fill/w_980,h_490,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b0d29e_755d887ade5c425aa97b7ab4202de6a1~mv2.jpg)
 
 ---
 
