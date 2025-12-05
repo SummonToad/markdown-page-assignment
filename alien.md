@@ -14,8 +14,7 @@ This page gives a quick breakdown of the movie’s themes, characters, and legac
 - [Key Themes](#key-themes)
 - [Iconic Scene](#iconic-scene)
 - [Movie Stats Table](#movie-stats-table)
-- [Behind the Scenes](#behind-the-scenes)
-- [Navigation](#navigation)
+
 
 ---
 
@@ -64,7 +63,7 @@ The characters are alone in deep space with no hope of rescue.
 The “chestburster” scene is one of the most famous in film history.  
 Here’s a placeholder image (replace this with a real image if you want):
 
-![Chestburster Scene Placeholder](https://via.placeholder.com/300x180?text=Alien+Chestburster)
+![Chestburster Scene Placeholder](https://www.youtube.com/watch?v=UxqVFmig5AA)
 
 ---
 
@@ -79,18 +78,4 @@ Here’s a placeholder image (replace this with a real image if you want):
 
 ---
 
-## Quote Block With Code Example
 
-One of Ash’s chilling lines:
-
-> “I admire its purity.”
-
-A code block example (movie-related for fun):
-
-```python
-class Xenomorph:
-    def attack(self):
-        return "You are already dead."
-
-alien = Xenomorph()
-alien.attack()
