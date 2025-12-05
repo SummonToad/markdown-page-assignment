@@ -60,7 +60,7 @@ Many characters confront the emotional emptiness of their existence.
 
 One of the film’s most memorable moments is the confrontation in the abandoned casino.  
 
-![Blade Runner 2049 Placeholder](https://cdnb.artstation.com/p/assets/images/images/007/958/719/large/kamen-anev-casino-lobby2-6-ak-public-hd.jpg?1509568147)
+![Blade Runner 2049 image](https://cdnb.artstation.com/p/assets/images/images/007/958/719/large/kamen-anev-casino-lobby2-6-ak-public-hd.jpg?1509568147)
 
 ---
 
