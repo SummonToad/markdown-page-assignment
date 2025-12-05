@@ -1,4 +1,4 @@
-[Back to Home](READMEE.md)
+[Back to Home](README.md)
 
 # *Jurassic Park* (1993) — Overview
 
